@@ -3,6 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 // CONSTANTS
+// NORMALLY CONSTANTS AND COMPONENTS WOULD BE IN SEPARATE FILES/FOLDERS
 const NUM_OF_ROW = 4;
 const NUM_OF_COLS = 4;
 const PLAYER_ONE = 'one';
